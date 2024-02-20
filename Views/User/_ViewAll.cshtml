@@ -1,0 +1,52 @@
+﻿@model IEnumerable<AuthProject.Models.User>
+
+    <div class="col-md-8 offset-md-2">
+
+        <h1 class="text-center"><i class="fas fa-user text-success"></i> Registration</h1>
+
+
+        <table class="table">
+            <thead class="thead-light">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+                    
+        
+                    <th>
+                        <a onclick="showInPopup('@Url.Action("AddOrEditUser","User",null,Context.Request.Scheme)','New User')" class="btn btn-success text-white"><i class="fas fa-random"></i> New User</a>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                             @Html.DisplayFor(modelItem => item.Email)
+                        </td>
+                        <td>
+                             @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        
+                        <td>
+                            <div>
+                                <a onclick="showInPopup('@Url.Action("AddOrEditUser","User",new {id=item.Id},Context.Request.Scheme)','Update Registration')" class="btn btn-info text-white"><i class="fas fa-pencil-alt"></i> Edit</a>
+                                <form asp-action="Delete" asp-controller="User" asp-route-id="@item.Id" onsubmit="return jQueryAjaxDelete(this)" class="d-inline">
+                                    <input type="hidden" asp-for="@item.Id" />
+                                    <input type="submit" value="Delete" class="btn btn-danger" />
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    @* @html.listboxfor(s => s.selectedskills , 
+    new multiselectlist(model.skills, "value", "text", model.selectedskills ), 
+    new { @class = "form-control", style = "height:250px; width:100%" })
+     @html.hiddenfor(s => s.teacherid) *@

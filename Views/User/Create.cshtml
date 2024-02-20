@@ -1,0 +1,51 @@
+﻿@using AuthProject.ViewModel
+@model UserViewModel
+@{
+    ViewData["Title"] = "Create User";
+}
+
+
+
+<div class="container shadow p-5">
+    <div class="row  pb-2">
+        <h1>Add User</h1>
+    </div>
+
+    @if (TempData["SuccessMsg"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            @TempData["SuccessMsg"]
+        </div>
+    }
+
+
+    <form method="post" class="form-floating">
+
+        <div class="form-floating mb-3">
+            <input type="text" class="form-control" asp-for="Email" placeholder="Enter Email" />
+            <label asp-for="Email">Email</label>
+            <span asp-validation-for="Email" class="alert-danger"></span>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="text" class="form-control" asp-for="Name" placeholder="Enter name" />
+            <label asp-for="Name">Name</label>
+            <span asp-validation-for="Name" class="alert-danger"></span>
+        </div>
+
+        <div class="form-floating mb-3">
+            <input type="password" class="form-control" asp-for="Password" placeholder="Enter Password" />
+            <label asp-for="Password">Password</label>
+            <span asp-validation-for="Password" class="alert-danger"></span>
+        </div>
+
+         <div class="form-floating mb-3">
+            <input type="password" class="form-control" asp-for="ConfirmPassword" placeholder="ConfirmPassword" />
+            <label asp-for="ConfirmPassword">ConfirmPassword</label>
+            <span asp-validation-for="ConfirmPassword" class="alert-danger"></span>
+        </div>
+
+
+        <button type="submit" class="btn btn-success">Save</button>
+        <a asp-controller="User" asp-action="Index" class="btn btn-primary">Back To List</a>
+    </form>
+</div>

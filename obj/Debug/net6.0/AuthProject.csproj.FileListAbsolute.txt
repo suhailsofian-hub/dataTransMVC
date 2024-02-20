@@ -1,0 +1,1137 @@
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\appsettings.Development.json
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\appsettings.json
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.staticwebassets.runtime.json
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.exe
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.deps.json
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.runtimeconfig.json
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ref\AuthProject.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.pdb
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Humanizer.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\MessagePack.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Common.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.MvcApplicationPartsAssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.MvcApplicationPartsAssemblyInfo.cache
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.RazorAssemblyInfo.cache
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.RazorAssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\staticwebassets.build.json
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\staticwebassets.development.json
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\scopedcss\bundle\AuthProject.styles.css
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\scopedcss\projectbundle\AuthProject.bundle.scp.css
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\ref\AuthProject.dll
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.pdb
+E:\WorkSpaceAD\YOUTUBE 2\003_AUTHENTICATION ASP.NET CORE\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.genruntimeconfig.cache
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\appsettings.Development.json
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\appsettings.json
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.staticwebassets.runtime.json
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.exe
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.deps.json
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.runtimeconfig.json
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.pdb
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Humanizer.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\MessagePack.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Common.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.csproj.AssemblyReference.cache
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.AssemblyInfoInputs.cache
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.AssemblyInfo.cs
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.csproj.CoreCompileInputs.cache
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.MvcApplicationPartsAssemblyInfo.cs
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.MvcApplicationPartsAssemblyInfo.cache
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.RazorAssemblyInfo.cache
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.RazorAssemblyInfo.cs
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\scopedcss\bundle\AuthProject.styles.css
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\scopedcss\projectbundle\AuthProject.bundle.scp.css
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.csproj.CopyComplete
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.dll
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\refint\AuthProject.dll
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.pdb
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.genruntimeconfig.cache
+D:\asp projects\AuthProject\AuthProject\obj\Debug\net6.0\ref\AuthProject.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Azure.Core.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Azure.Identity.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Dapper.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.CodeDom.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Memory.Data.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\System.Text.Json.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\asp projects\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\appsettings.Development.json
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\appsettings.json
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.staticwebassets.runtime.json
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.exe
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.deps.json
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.runtimeconfig.json
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.pdb
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Azure.Core.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Azure.Identity.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Dapper.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Humanizer.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\MessagePack.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Common.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.CodeDom.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Memory.Data.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Text.Json.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.csproj.AssemblyReference.cache
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.AssemblyInfoInputs.cache
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.AssemblyInfo.cs
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.csproj.CoreCompileInputs.cache
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.MvcApplicationPartsAssemblyInfo.cs
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.MvcApplicationPartsAssemblyInfo.cache
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.RazorAssemblyInfo.cache
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.RazorAssemblyInfo.cs
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\scopedcss\bundle\AuthProject.styles.css
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\scopedcss\projectbundle\AuthProject.bundle.scp.css
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.csproj.CopyComplete
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.dll
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\refint\AuthProject.dll
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.pdb
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.genruntimeconfig.cache
+D:\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\ref\AuthProject.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\libman.json
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AutoMapper.dll
+D:\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\appsettings.Development.json
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\libman.json
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\appsettings.json
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.staticwebassets.runtime.json
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.exe
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.deps.json
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.runtimeconfig.json
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AuthProject.pdb
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AutoMapper.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Azure.Core.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Azure.Identity.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Dapper.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Humanizer.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\MessagePack.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Common.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.CodeDom.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Memory.Data.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Text.Json.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.csproj.AssemblyReference.cache
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.AssemblyInfoInputs.cache
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.AssemblyInfo.cs
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.csproj.CoreCompileInputs.cache
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.RazorAssemblyInfo.cache
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.RazorAssemblyInfo.cs
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.sourcelink.json
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\staticwebassets\msbuild.AuthProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthProject.props
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthProject.props
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthProject.props
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\scopedcss\bundle\AuthProject.styles.css
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\scopedcss\projectbundle\AuthProject.bundle.scp.css
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.csproj.CopyComplete
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\refint\AuthProject.dll
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.pdb
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\AuthProject.genruntimeconfig.cache
+D:\projects\asp pro\asp projects\new pro\AuthProject\AuthProject\obj\Debug\net6.0\ref\AuthProject.dll

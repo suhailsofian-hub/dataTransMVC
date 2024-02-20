@@ -1,0 +1,115 @@
+﻿  @model AuthProject.Models.VMLogin;
+  @* @{
+    Layout = null;
+} *@
+@* 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title> Post Data Using Ajax</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+     @await RenderSectionAsync("Scripts", required: false)
+</head>
+<body> *@
+    <div class="alerts" >
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+  <p></p>
+</div>
+<form id="loginForm">
+   
+    <div class="row mt-2">
+        <div class="col-6">
+            <label>Email</label>
+            <input asp-for="Email" class="form-control" id="Email" autocomplete="off" />
+            <span class="text-danger" asp-validation-for="Email"></span>
+        </div>
+    </div>
+    
+    
+    <div class="row mt-2">
+        <div class="col-6">
+            <label>Password</label>
+            <input asp-for="Password" class="form-control" id="Password" autocomplete="off" />
+            <span class="text-danger" asp-validation-for="Password"></span>
+        </div>
+    </div>
+    <div class="row mt-2">
+        <div class="col-6">
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="KeepLoggedIn" asp-for="KeepLoggedIn">
+                <label class="form-check-label" for="KeepLoggedIn">
+                    KeepLoggedIn
+                </label>
+            </div>
+        </div>
+    </div>
+    <div class="row mt-2">
+        <div class="col-6">
+            <button class="btn btn-primary" type="button" onclick="Login()"> Login </button>
+        </div>
+    </div>
+
+</form>
+<br/>
+<br/>
+
+@* <div class="alert alert-danger alert-dismissible fade show" id="result">
+    ok
+    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+</div> *@
+ @* <label id ="formerrorlabel" >
+                    
+                </label> *@
+                
+@section Scripts{ 
+@{ <partial name= "_ValidationScriptsPartial" />}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js" integrity="sha512-rstIgDs0xPgmG6RX1Aba4KV5cWJbAMcvRCVmglpam9SoHZiUCyQVDdH2LPlxoHtrv17XWblE/V/PP+Tr04hbtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js" integrity="sha512-xq+Vm8jC94ynOikewaQXMEkJIOBp7iArs3IhFWSWdRT3Pq8wFz46p+ZDFAR7kHnSFf+zUv52B3prRYnbDRdgog==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+    $(document).ready(function () {
+        $.validator.unobtrusive.parse($("#loginForm"));
+    })
+
+    function Login() {
+        if ($("#loginForm").valid()) {
+            var formData = $("#loginForm").serialize();
+            console.log(formData);
+            $.ajax({
+                url: "/Access/LoginWithAjax",
+                type: "POST",
+                data: formData,
+                success: function (response) {
+                    if(response.isValid){
+                      console.log(response.isValid);
+                      console.log(response.message);
+                      window.location.href = "/Home/Index";
+                    }else {
+                          console.log(response.isValid);
+                      console.log(response.message);
+                      $(".alerts p").text(response.message);
+                      $(".alerts").show();
+                      $('.alerts').fadeIn(3000);
+                    }
+                    
+                },
+                error: function (request, status, error) {
+                    alert(request.responseText);
+                }
+
+            });
+        }
+    }
+</script>
+
+}
+    @* <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+   
+</body>
+</html> *@
+
