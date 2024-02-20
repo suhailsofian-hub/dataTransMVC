@@ -83,32 +83,7 @@ namespace AuthProject.Controllers
             return View();
         }
 
-// [HttpPost]
-        // public JsonResult LoginUser(VMLogin model)
-        // {
-        //    string result = "fail";
-
-
-
-        //     return Json(result, new Newtonsoft.Json.JsonSerializerSettings());
-        // }
-        // [HttpPost]
-        // public JsonResult ValidateUser(string userid, string password)
-        // {
-        //     Console.WriteLine("userid"+userid);
-        //     Console.WriteLine("password"+password);
-        //     // models db = new models();
-        //     // var data = from c in db.UserLogins where c.Name == userid && c.Password == password select c;
-        //     // if (data.Count() > 0)
-        //     //     return Json(new { Success = true }, new Newtonsoft.Json.JsonSerializerSettings());
-        //     // else
-        //         return Json(new { Success = false }, new Newtonsoft.Json.JsonSerializerSettings());
-        // }
-
-        // private JsonResult Json(object value, object allowGet)
-        // {
-        //     throw new NotImplementedException();
-        // }
+        
         [HttpPost]
         public JsonResult LoginWithAjax(VMLogin modelLogin)
         {
